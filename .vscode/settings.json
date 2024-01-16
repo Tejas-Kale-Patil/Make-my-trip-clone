@@ -1,0 +1,31 @@
+{
+    "liveServer.settings.port": 5501,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "db4free.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "NEWCONNECTION",
+            "database": "makemytrip",
+            "username": "mahesh7",
+            "password": "mahesh@7777"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "db4free.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "maheshMmt",
+            "database": "makemytrip",
+            "username": "mahesh7",
+            "password": "mahesh@7777"
+        }
+    ]
+}
